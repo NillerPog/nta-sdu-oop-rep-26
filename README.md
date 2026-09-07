@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HELLO SMALL WORLD
+=======
+HELLO BIG WORLD 
+>>>>>>> 48b04de94297c6af7083f75ce95d965ea70840d8
